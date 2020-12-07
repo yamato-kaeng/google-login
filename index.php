@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="google-signin-scope" content="profile email">
 <script src="https://apis.google.com/js/platform.js" async defer></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <meta name="google-signin-client_id" content="659694983275-e2mu1cfbo61prcbamtketkcqhhsr9f5p.apps.googleusercontent.com">
 
 <script>
